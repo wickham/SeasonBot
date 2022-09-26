@@ -1,0 +1,46 @@
+{
+    "season": "FALL",
+    "server_path": "C:\\Users\\mynam\\Documents\\Code\\SeasonBot",
+    "season_dir": "SEASONS",
+    "files_included": [
+        "db/*",
+        "env/*",
+        "mod_ce/*",
+        "SurvivorMissionModule/*",
+        "areaflags.map",
+        "cfgeconomycore.xml",
+        "cfgEffectArea.json",
+        "cfgenvironment.xml",
+        "cfgeventgroups.xml",
+        "cfgeventspawns.xml",
+        "cfggameplay.json",
+        "cfgignorelist.xml",
+        "cfglimitsdefinition.xml",
+        "cfglimitsdefinitionuser.xml",
+        "cfgplayerspawnpoints.xml",
+        "cfgrandompresets.xml",
+        "cfgspawnabletypes.xml",
+        "cfgweather.xml",
+        "init.c",
+        "mapclusterproto.xml",
+        "mapgroupcluster.xml",
+        "mapgroupcluster01.xml",
+        "mapgroupcluster02.xml",
+        "mapgroupcluster03.xml",
+        "mapgroupcluster04.xml",
+        "mapgroupcluster05.xml",
+        "mapgroupdirt.xml",
+        "mapgrouppos.xml",
+        "mapgroupproto.xml"
+    ],
+    "files_ignored": [
+        "storage_1/*"
+    ],
+    "seasons": [
+        "SPRING",
+        "SUMMER",
+        "FALL",
+        "WINTER"
+    ],
+    "generated": "2022-09-25 18:29:26.468178"
+}
